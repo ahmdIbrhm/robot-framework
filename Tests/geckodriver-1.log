@@ -1,0 +1,2 @@
+1629902521699	geckodriver	INFO	Listening on 127.0.0.1:48591
+1629902522693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9g37HX"
