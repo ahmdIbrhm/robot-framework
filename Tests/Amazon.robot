@@ -10,7 +10,7 @@ User must sign in to check out
     [Documentation]    This is some basic information about the test
     [Tags]    Smoke
     Log    Hello 
-    Open Browser    https://www.amazon.com  chrome
+    Open Browser    https://www.amazon.com  ff
 #    Wait until page contains    Your Amazon.com
 #    sleep    3s
 #    Input Text    twotabsearchtextbox   Ferrari 458
